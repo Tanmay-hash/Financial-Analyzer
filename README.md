@@ -15,4 +15,4 @@ This is a Python-based tool that uses the `yfinance` library to analyze public c
 ### Run it
 ```bash
 pip install yfinance pandas
-python analyzer.py
+python main.py
